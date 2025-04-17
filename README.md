@@ -1,9 +1,9 @@
 # portfolio
 # Java Developer Portfolio
 
-A responsive portfolio website for a Java developer with 3+ years of experience. Built with HTML5, CSS3, and vanilla JavaScript.
+A responsive portfolio website for a Java developer with 4+ years of experience. Built with HTML5, CSS3, and  JavaScript.
 
-![Portfolio Screenshot](https://via.placeholder.com/800x500) <!-- Replace with actual screenshot -->
+  See Live Demo  https://devamit09.github.io/portfolio/
 
 ## Features
 
@@ -44,13 +44,14 @@ A responsive portfolio website for a Java developer with 3+ years of experience.
 
 2. Navigate to the project directory:
    cd java-developer-portfolio   on gitbash
-============================================================================
-Configuration
+==========================================================================
 
-Replace placeholder images with your actual images
+## Configuration
 
-Update content with your personal information
+     Replace placeholder images with your actual images
 
-Add your real projects to the projects section
+     Update content with your personal information
 
-Customize colors in the CSS variables if desired
+     Add your real projects to the projects section
+
+     Customize colors in the CSS variables if desired
