@@ -44,7 +44,7 @@ A responsive portfolio website for a Java developer with 4+ years of experience.
 
 2. Navigate to the project directory:
    cd java-developer-portfolio   on gitbash
-==========================================================================
+=======================================================================
 
 ## Configuration
 
